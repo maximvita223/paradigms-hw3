@@ -1,0 +1,5 @@
+22:57:19 - task03 - INFO - Logger: 11 - Hello
+22:59:42 - task03 - INFO - hello_log: 12 - <__main__.Logger object at 0x00000283A1282D90>
+22:59:54 - task03 - INFO - hello_log: 12 - <__main__.Logger object at 0x0000021045382D90>
+23:00:19 - task03 - INFO - hello_log: 12 - <__main__.Logger object at 0x000001F6A5A82DD0>
+23:01:18 - task03 - INFO - hello_log: 12 - <__main__.Logger object at 0x000001731D282DD0>
